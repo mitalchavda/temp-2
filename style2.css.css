@@ -1,0 +1,155 @@
+body
+{	
+	height:10px;
+	width:10px;
+	background-image:url("");
+	background-repeat: no-repeat;
+	background-attachment: right top;
+	background-position: right center;
+
+	
+
+	
+}
+.container
+{
+	background-size: cover;
+	position: absolute;
+	font-weight: 20px;
+	left:25%;
+	right: 25%;
+	height: 1000px;
+}
+.a
+{
+	background-color:rgb(255,110,0,0.600);
+	color:white; 
+	padding-left: 20px;
+	padding-top: 20px;
+	text-align:justify;
+	letter-spacing:7;
+	height: 400px;
+	width: 365px; 
+
+}
+.a1
+{
+	border: solid;
+	padding-left: 5px;
+	height: 90px;
+	width: 110px;
+
+}
+.b
+{
+	
+	background-color:rgb(253,208,21,0.6);
+	color:white;
+	position: absolute;
+    right: 15px;
+
+	top:0px;
+	height:200px;
+	width:361px;
+}
+.b1
+{
+position: relative;
+top: 10px;
+left: 200px; 
+}
+.d
+{   
+	background-color:rgb(135,206,235,0.600);
+	color:white; 
+	padding-left: 20px;
+	
+	text-align:left;
+	margin top:900px;
+	height: 200px;
+	position:relative;
+	top:-22px;
+}
+.d1
+{
+    top: 40px;   
+	background-color:#363636;
+	font-weight: bold;
+	position: relative;
+	width: 50%;
+
+
+}
+.d2
+{
+    top :40px;
+	background-color:363636;
+	font-weight: bold;
+	position: relative;
+	width: 27%;
+
+}
+
+.d3
+{
+	position: relative;
+	left: 250px;
+	top: -20px;
+
+}
+.e
+{
+	padding:top;
+	background-color:rgb(255,255,255);
+	color: orange;
+	text-indent: 20px;
+	text-align:justify;
+	text-align-last: 
+	letter-spacing: 2px;
+	position:relative;
+	top:-44px;
+	height: 150px;
+}
+.e1
+{
+	color: black;
+}
+.e2
+{
+	font-weight: bold;
+}
+.footer_div
+{
+	padding-top: 20px;
+    text-align:right;
+	height:150px;
+	text-align:center;
+	width:240px;
+	position:absolute; 
+	right:0px;
+	top:769px; 
+	background-color:rgb(253,208,21);
+	color:Black;
+}
+.footer
+{
+	padding-top: 5px;
+    text-align:left;
+	height:160px;
+	text-align:left;
+	padding-left: 20px;
+	width:500px;
+	position:absolute; 
+	left:0px;
+	top:769px; 
+	background-color:rgb(255,255,255);
+	color:#87ceeb;
+}
+.footer1
+{
+	color: black;
+}
+.pic
+{
+	background-image: url("pc.jpg");
+}
